@@ -1,0 +1,13 @@
+C:\Users\jonat\OneDrive\Desktop\MSSA HW\Programming Exercises\MonteCarlo\bin\Debug\netcoreapp3.1\MonteCarlo.exe
+C:\Users\jonat\OneDrive\Desktop\MSSA HW\Programming Exercises\MonteCarlo\bin\Debug\netcoreapp3.1\MonteCarlo.deps.json
+C:\Users\jonat\OneDrive\Desktop\MSSA HW\Programming Exercises\MonteCarlo\bin\Debug\netcoreapp3.1\MonteCarlo.runtimeconfig.json
+C:\Users\jonat\OneDrive\Desktop\MSSA HW\Programming Exercises\MonteCarlo\bin\Debug\netcoreapp3.1\MonteCarlo.runtimeconfig.dev.json
+C:\Users\jonat\OneDrive\Desktop\MSSA HW\Programming Exercises\MonteCarlo\bin\Debug\netcoreapp3.1\MonteCarlo.dll
+C:\Users\jonat\OneDrive\Desktop\MSSA HW\Programming Exercises\MonteCarlo\bin\Debug\netcoreapp3.1\MonteCarlo.pdb
+C:\Users\jonat\OneDrive\Desktop\MSSA HW\Programming Exercises\MonteCarlo\obj\Debug\netcoreapp3.1\MonteCarlo.csprojAssemblyReference.cache
+C:\Users\jonat\OneDrive\Desktop\MSSA HW\Programming Exercises\MonteCarlo\obj\Debug\netcoreapp3.1\MonteCarlo.AssemblyInfoInputs.cache
+C:\Users\jonat\OneDrive\Desktop\MSSA HW\Programming Exercises\MonteCarlo\obj\Debug\netcoreapp3.1\MonteCarlo.AssemblyInfo.cs
+C:\Users\jonat\OneDrive\Desktop\MSSA HW\Programming Exercises\MonteCarlo\obj\Debug\netcoreapp3.1\MonteCarlo.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\Desktop\MSSA HW\Programming Exercises\MonteCarlo\obj\Debug\netcoreapp3.1\MonteCarlo.dll
+C:\Users\jonat\OneDrive\Desktop\MSSA HW\Programming Exercises\MonteCarlo\obj\Debug\netcoreapp3.1\MonteCarlo.pdb
+C:\Users\jonat\OneDrive\Desktop\MSSA HW\Programming Exercises\MonteCarlo\obj\Debug\netcoreapp3.1\MonteCarlo.genruntimeconfig.cache
