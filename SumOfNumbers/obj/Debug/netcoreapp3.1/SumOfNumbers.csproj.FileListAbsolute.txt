@@ -1,0 +1,26 @@
+C:\Users\jonat\OneDrive\Desktop\MSSA HW\Programming Exercises\SumOfNumbers\bin\Debug\netcoreapp3.1\SumOfNumbers.exe
+C:\Users\jonat\OneDrive\Desktop\MSSA HW\Programming Exercises\SumOfNumbers\bin\Debug\netcoreapp3.1\SumOfNumbers.deps.json
+C:\Users\jonat\OneDrive\Desktop\MSSA HW\Programming Exercises\SumOfNumbers\bin\Debug\netcoreapp3.1\SumOfNumbers.runtimeconfig.json
+C:\Users\jonat\OneDrive\Desktop\MSSA HW\Programming Exercises\SumOfNumbers\bin\Debug\netcoreapp3.1\SumOfNumbers.runtimeconfig.dev.json
+C:\Users\jonat\OneDrive\Desktop\MSSA HW\Programming Exercises\SumOfNumbers\bin\Debug\netcoreapp3.1\SumOfNumbers.dll
+C:\Users\jonat\OneDrive\Desktop\MSSA HW\Programming Exercises\SumOfNumbers\bin\Debug\netcoreapp3.1\SumOfNumbers.pdb
+C:\Users\jonat\OneDrive\Desktop\MSSA HW\Programming Exercises\SumOfNumbers\obj\Debug\netcoreapp3.1\SumOfNumbers.csprojAssemblyReference.cache
+C:\Users\jonat\OneDrive\Desktop\MSSA HW\Programming Exercises\SumOfNumbers\obj\Debug\netcoreapp3.1\SumOfNumbers.AssemblyInfoInputs.cache
+C:\Users\jonat\OneDrive\Desktop\MSSA HW\Programming Exercises\SumOfNumbers\obj\Debug\netcoreapp3.1\SumOfNumbers.AssemblyInfo.cs
+C:\Users\jonat\OneDrive\Desktop\MSSA HW\Programming Exercises\SumOfNumbers\obj\Debug\netcoreapp3.1\SumOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\Desktop\MSSA HW\Programming Exercises\SumOfNumbers\obj\Debug\netcoreapp3.1\SumOfNumbers.dll
+C:\Users\jonat\OneDrive\Desktop\MSSA HW\Programming Exercises\SumOfNumbers\obj\Debug\netcoreapp3.1\SumOfNumbers.pdb
+C:\Users\jonat\OneDrive\Desktop\MSSA HW\Programming Exercises\SumOfNumbers\obj\Debug\netcoreapp3.1\SumOfNumbers.genruntimeconfig.cache
+C:\Users\jonat\OneDrive\Desktop\MSSA HW\Programming Exercises\EX2A Calculating Averages\SumOfNumbers\bin\Debug\netcoreapp3.1\SumOfNumbers.exe
+C:\Users\jonat\OneDrive\Desktop\MSSA HW\Programming Exercises\EX2A Calculating Averages\SumOfNumbers\bin\Debug\netcoreapp3.1\SumOfNumbers.deps.json
+C:\Users\jonat\OneDrive\Desktop\MSSA HW\Programming Exercises\EX2A Calculating Averages\SumOfNumbers\bin\Debug\netcoreapp3.1\SumOfNumbers.runtimeconfig.json
+C:\Users\jonat\OneDrive\Desktop\MSSA HW\Programming Exercises\EX2A Calculating Averages\SumOfNumbers\bin\Debug\netcoreapp3.1\SumOfNumbers.runtimeconfig.dev.json
+C:\Users\jonat\OneDrive\Desktop\MSSA HW\Programming Exercises\EX2A Calculating Averages\SumOfNumbers\bin\Debug\netcoreapp3.1\SumOfNumbers.dll
+C:\Users\jonat\OneDrive\Desktop\MSSA HW\Programming Exercises\EX2A Calculating Averages\SumOfNumbers\bin\Debug\netcoreapp3.1\SumOfNumbers.pdb
+C:\Users\jonat\OneDrive\Desktop\MSSA HW\Programming Exercises\EX2A Calculating Averages\SumOfNumbers\obj\Debug\netcoreapp3.1\SumOfNumbers.csprojAssemblyReference.cache
+C:\Users\jonat\OneDrive\Desktop\MSSA HW\Programming Exercises\EX2A Calculating Averages\SumOfNumbers\obj\Debug\netcoreapp3.1\SumOfNumbers.AssemblyInfoInputs.cache
+C:\Users\jonat\OneDrive\Desktop\MSSA HW\Programming Exercises\EX2A Calculating Averages\SumOfNumbers\obj\Debug\netcoreapp3.1\SumOfNumbers.AssemblyInfo.cs
+C:\Users\jonat\OneDrive\Desktop\MSSA HW\Programming Exercises\EX2A Calculating Averages\SumOfNumbers\obj\Debug\netcoreapp3.1\SumOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\Desktop\MSSA HW\Programming Exercises\EX2A Calculating Averages\SumOfNumbers\obj\Debug\netcoreapp3.1\SumOfNumbers.dll
+C:\Users\jonat\OneDrive\Desktop\MSSA HW\Programming Exercises\EX2A Calculating Averages\SumOfNumbers\obj\Debug\netcoreapp3.1\SumOfNumbers.pdb
+C:\Users\jonat\OneDrive\Desktop\MSSA HW\Programming Exercises\EX2A Calculating Averages\SumOfNumbers\obj\Debug\netcoreapp3.1\SumOfNumbers.genruntimeconfig.cache

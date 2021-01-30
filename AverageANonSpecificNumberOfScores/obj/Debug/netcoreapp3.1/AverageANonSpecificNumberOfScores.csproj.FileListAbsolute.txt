@@ -1,0 +1,13 @@
+C:\Users\jonat\OneDrive\Desktop\MSSA HW\Programming Exercises\EX2A Calculating Averages\AverageANonSpecificNumberOfScores\bin\Debug\netcoreapp3.1\AverageANonSpecificNumberOfScores.exe
+C:\Users\jonat\OneDrive\Desktop\MSSA HW\Programming Exercises\EX2A Calculating Averages\AverageANonSpecificNumberOfScores\bin\Debug\netcoreapp3.1\AverageANonSpecificNumberOfScores.deps.json
+C:\Users\jonat\OneDrive\Desktop\MSSA HW\Programming Exercises\EX2A Calculating Averages\AverageANonSpecificNumberOfScores\bin\Debug\netcoreapp3.1\AverageANonSpecificNumberOfScores.runtimeconfig.json
+C:\Users\jonat\OneDrive\Desktop\MSSA HW\Programming Exercises\EX2A Calculating Averages\AverageANonSpecificNumberOfScores\bin\Debug\netcoreapp3.1\AverageANonSpecificNumberOfScores.runtimeconfig.dev.json
+C:\Users\jonat\OneDrive\Desktop\MSSA HW\Programming Exercises\EX2A Calculating Averages\AverageANonSpecificNumberOfScores\bin\Debug\netcoreapp3.1\AverageANonSpecificNumberOfScores.dll
+C:\Users\jonat\OneDrive\Desktop\MSSA HW\Programming Exercises\EX2A Calculating Averages\AverageANonSpecificNumberOfScores\bin\Debug\netcoreapp3.1\AverageANonSpecificNumberOfScores.pdb
+C:\Users\jonat\OneDrive\Desktop\MSSA HW\Programming Exercises\EX2A Calculating Averages\AverageANonSpecificNumberOfScores\obj\Debug\netcoreapp3.1\AverageANonSpecificNumberOfScores.csprojAssemblyReference.cache
+C:\Users\jonat\OneDrive\Desktop\MSSA HW\Programming Exercises\EX2A Calculating Averages\AverageANonSpecificNumberOfScores\obj\Debug\netcoreapp3.1\AverageANonSpecificNumberOfScores.AssemblyInfoInputs.cache
+C:\Users\jonat\OneDrive\Desktop\MSSA HW\Programming Exercises\EX2A Calculating Averages\AverageANonSpecificNumberOfScores\obj\Debug\netcoreapp3.1\AverageANonSpecificNumberOfScores.AssemblyInfo.cs
+C:\Users\jonat\OneDrive\Desktop\MSSA HW\Programming Exercises\EX2A Calculating Averages\AverageANonSpecificNumberOfScores\obj\Debug\netcoreapp3.1\AverageANonSpecificNumberOfScores.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\Desktop\MSSA HW\Programming Exercises\EX2A Calculating Averages\AverageANonSpecificNumberOfScores\obj\Debug\netcoreapp3.1\AverageANonSpecificNumberOfScores.dll
+C:\Users\jonat\OneDrive\Desktop\MSSA HW\Programming Exercises\EX2A Calculating Averages\AverageANonSpecificNumberOfScores\obj\Debug\netcoreapp3.1\AverageANonSpecificNumberOfScores.pdb
+C:\Users\jonat\OneDrive\Desktop\MSSA HW\Programming Exercises\EX2A Calculating Averages\AverageANonSpecificNumberOfScores\obj\Debug\netcoreapp3.1\AverageANonSpecificNumberOfScores.genruntimeconfig.cache
